@@ -29,12 +29,16 @@ I have strong knowledge of JavaScript/TypeScript, combined with a frontend frame
   <img align="left" alt="Github" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/prisma.svg">
-  <img align="left" alt="Prisma" width="25px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <source media="(prefers-color-scheme: dark)" width="25px" srcset="./img/prisma.svg">
+  <img align="left" alt="Prisma" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/express.svg">
   <img align="left" alt="Express" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/vercel.svg">
+  <img align="left" alt="Vercel" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 </picture>
 
 <br />
@@ -60,7 +64,6 @@ I have strong knowledge of JavaScript/TypeScript, combined with a frontend frame
 <img align="left" alt="Sentry" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Vercel" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="ViteJS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
