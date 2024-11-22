@@ -18,10 +18,15 @@ I have strong knowledge of JavaScript/TypeScript, combined with a frontend frame
 <img align="left" alt=".Net Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
+### Languages and Tools
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg#gh-dark-mode-only" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="./assets/test.svg#gh-dark-mode-only" />
 
+<br />
+<br />
+
+---
+### Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -55,7 +60,15 @@ I have strong knowledge of JavaScript/TypeScript, combined with a frontend frame
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 -->
-<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+---
+
+### TEST
+<img align="left" alt="GitHub" src="./img/github-dark.svg" style="padding-right:10px;" />
 
 <!--
 **ArtoszBart/ArtoszBart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
