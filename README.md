@@ -36,6 +36,7 @@ I have strong knowledge of JavaScript/TypeScript, combined with a frontend frame
 [<img align="left" alt="SCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />](https://sass-lang.com/)
 [<img align="left" alt="C#" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />](https://learn.microsoft.com/dotnet/csharp/)
 [<img align="left" alt="Java" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />](https://www.java.com/)
+<img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
 
 <br />
@@ -83,26 +84,10 @@ I have strong knowledge of JavaScript/TypeScript, combined with a frontend frame
 
 [<img align="left" alt="Azure" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />](https://azure.microsoft.com/)
 
-
-
-
-
-
-
 <!--
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 -->
-
-
-<br />
-<br />
-
----
-
-### TEST
-
-
 
 <!--
 **ArtoszBart/ArtoszBart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
