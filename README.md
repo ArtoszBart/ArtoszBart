@@ -1,4 +1,4 @@
-# Hello, I'm Bartosz Art 👋
+# Hello there, I'm Bartosz Art 👋
 
 **`Full-Stack Developer`**
 
