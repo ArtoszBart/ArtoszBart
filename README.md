@@ -1,6 +1,6 @@
 # Hello there, I'm Bartosz Art 👋
 
-**`Full-Stack Developer`** **`Software Engineer`** **`Sailor`** **`Golf Player`**
+**`Full-Stack Developer`** **`Software Engineer`** **`Maritime Yacht Skipper`** **`Golf Player`**
 
 I hold a Bachelor of Software Engineering with a major in Business Applications Programming from the Polish-Japanese Academy of Information Technology in Poland. I specialize in frontend and backend development, databases, as well as mobile, web, and desktop applications. 
 <br />
