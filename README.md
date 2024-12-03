@@ -93,7 +93,7 @@ I hold a Bachelor of Software Engineering with a major in Business Applications 
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artoszbart&layout=compact&theme=transparent&border_color=4446&border_radius=15&custom_title=My%20Most%20Used%20Languages" />
 </span>
-<img src="https://github-stackoverflow-readme.vercel.app/?userId=11319657" />
+<!---<img src="https://github-stackoverflow-readme.vercel.app/?userId=11319657" />--->
 <!---&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 
 <!--
