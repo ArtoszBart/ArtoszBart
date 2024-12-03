@@ -2,7 +2,10 @@
 
 **`Full-Stack Developer`**
 
-I hold a Bachelor of Software Engineering with a major in Business Applications Programming from the Polish-Japanese Academy of Information Technology in Poland. I specialize in frontend and backend development, databases, as well as mobile, web, and desktop applications. I've been passionate about coding since 2016, constantly exploring new technologies and building innovative solutions. I have experience working on enterprise-level applications, including developing a comprehensive dental practise management system — from analysis and design to deployment. I'm particularly interested in performance optimization, data security and user-centered design, always striving to write clean, maintainable code.
+I hold a Bachelor of Software Engineering with a major in Business Applications Programming from the Polish-Japanese Academy of Information Technology in Poland. I specialize in frontend and backend development, databases, as well as mobile, web, and desktop applications. 
+<br />
+<br />
+I've been passionate about coding since 2016, constantly exploring new technologies and building innovative solutions. I have experience working on enterprise-level applications, including developing a comprehensive dental practise management system — from analysis and design to deployment. I'm particularly interested in performance optimization, data security and user-centered design, always striving to write clean, maintainable code.
 
 
 
