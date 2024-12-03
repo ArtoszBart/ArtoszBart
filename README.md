@@ -1,15 +1,21 @@
 # Hello there, I'm Bartosz Art 👋
 
-**`Full-Stack Developer`** **`Software Engineer`** **`Maritime Yacht Skipper`** **`Golf Player`**
+**`Full-Stack Developer` | `Software Engineer` | `Maritime Yacht Skipper` | `Golf Enthusiast`**
 
-I hold a Bachelor of Software Engineering with a major in Business Applications Programming from the Polish-Japanese Academy of Information Technology in Poland. I specialize in frontend and backend development, databases, as well as mobile, web, and desktop applications. 
-<br />
-<br />
-I've been passionate about coding since 2016, constantly exploring new technologies and building innovative solutions. I have experience working on enterprise-level applications, including developing a comprehensive dental practise management system — from analysis and design to deployment. I'm particularly interested in performance optimization, data security and user-centered design, always striving to write clean, maintainable code.
+I am a **Full-Stack Developer** and **Software Engineer** with a Bachelor's degree in Software Engineering with a major in **Business Applications Programming** from the Polish-Japanese Academy of Information Technology.
+
+I have been passionate about coding since 2016, exploring modern technologies and creating innovative solutions. I specialize in **frontend and backend development**, **databases**, and building **mobile**, **web**, and **desktop applications**.
+
+One of my most notable projects was the development of a comprehensive dental practice management system, which I independently handled at every stage—from analysis and design to deployment.
+
+I’m particularly interested in **performance optimization**, **data security**, and **user-centered design**. My goal is to write **clean, maintainable, and efficient code** that makes a real impact. 🚀
+
 
 
 
 ## Skills
+Here are some tools and technologies I work with:
+
 ### Frameworks and Enviroments
 [<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />](https://react.dev/)
 [<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />](https://nextjs.org/)
@@ -24,9 +30,6 @@ I've been passionate about coding since 2016, constantly exploring new technolog
 [<img align="left" alt=".Net" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />](https://learn.microsoft.com/dotnet/)
 [<img align="left" alt=".Net Core" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />](https://learn.microsoft.com/dotnet/)
 [<img align="left" alt="Xamarin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" />](https://learn.microsoft.com/previous-versions/xamarin/)
-
-
-
 <br />
 <br />
 
@@ -39,8 +42,6 @@ I've been passionate about coding since 2016, constantly exploring new technolog
 [<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />](https://learn.microsoft.com/dotnet/csharp/)
 [<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />](https://www.java.com/)
 <img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-
 <br />
 <br />
 
@@ -50,8 +51,6 @@ I've been passionate about coding since 2016, constantly exploring new technolog
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />](https://www.oracle.com/database/)
 [<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/)
-
-
 <br />
 <br />
 
@@ -73,8 +72,6 @@ I've been passionate about coding since 2016, constantly exploring new technolog
   <source media="(prefers-color-scheme: dark)" srcset="./img/github.svg">
   <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </picture>
-
-
 <br />
 <br />
 
@@ -88,7 +85,6 @@ I've been passionate about coding since 2016, constantly exploring new technolog
 </picture>
 
 [<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />](https://azure.microsoft.com/)
-
 <br />
 <br />
 
@@ -102,16 +98,12 @@ I've been passionate about coding since 2016, constantly exploring new technolog
 <!---<img src="https://github-stackoverflow-readme.vercel.app/?userId=11319657" />--->
 <!---&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 
+## Let's Connect!
+Feel free to reach out or check out my work:
+- 💼 Portfolio *(work in progress)*
+- 📧 bartosz.art@gmail.com
+- 💻 [LinkedIn](https://www.linkedin.com/in/bartosz-art/)
 <!--
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
--->
-
-<!--
-**ArtoszBart/ArtoszBart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
