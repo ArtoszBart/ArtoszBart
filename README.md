@@ -52,10 +52,9 @@ I hold a Bachelor of Software Engineering with a major in Business Applications 
 <br />
 <br />
 
-### Tools
+### Development Tools
 [<img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />](https://www.docker.com/)
 [<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />](https://www.postman.com/)
 [<img align="left" alt="OAuth" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />](https://oauth.net/2/)
 [<img align="left" alt="TailwindCSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />](https://tailwindcss.com/)
@@ -72,6 +71,12 @@ I hold a Bachelor of Software Engineering with a major in Business Applications 
   <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </picture>
 
+
+<br />
+<br />
+
+### Deployment & Monitoring Tools
+[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />](https://www.docker.com/)
 [<img align="left" alt="Sentry" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" />](https://sentry.io/)
 
 <picture>
@@ -80,8 +85,6 @@ I hold a Bachelor of Software Engineering with a major in Business Applications 
 </picture>
 
 [<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />](https://azure.microsoft.com/)
-
-
 
 <br />
 <br />
