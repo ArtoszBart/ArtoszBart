@@ -21,6 +21,7 @@ Here are some tools and technologies I work with:
 [<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />](https://nextjs.org/)
 [<img align="left" alt="Vite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />](https://vite.dev/)
 [<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/)
+[<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />]([https://nodejs.org/](https://nestjs.com/))
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/express.svg">
