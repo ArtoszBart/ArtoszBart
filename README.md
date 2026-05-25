@@ -31,6 +31,7 @@ Here are some tools and technologies I work with:
 [<img align="left" alt=".Net" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />](https://learn.microsoft.com/dotnet/)
 [<img align="left" alt=".Net Core" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />](https://learn.microsoft.com/dotnet/)
 [<img align="left" alt="Xamarin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xamarin/xamarin-original.svg" />](https://learn.microsoft.com/previous-versions/xamarin/)
+[<img align="left" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />](https://www.arduino.cc/)
 <br />
 <br />
 
